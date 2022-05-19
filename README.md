@@ -6,7 +6,7 @@ Table of Contents:
  4. [Misc (general important topics/questions)](#misc)  
  5. [Learning Markdown](#markdown)  
 
-## Tutorials <a name="tut"/>  
+## :books: Tutorials <a name="tut"/>  
 - [rogerdudler simple & aesthetic git guide](http://rogerdudler.github.io/git-guide/)
 - [hackernoon: understanding git](https://hackernoon.com/understanding-git-fcffd87c15a3)
 - [dangitgit: cleaning up your mistakes](https://dangitgit.com/)
@@ -16,18 +16,18 @@ Table of Contents:
 
 [TOP](#top)
 
-## Practical Practice <a name="practice"/>
+## :jigsaw: Practical Practice <a name="practice"/>
 - [Git-it](https://github.com/jlord/git-it-electron#what-to-install)
 - [Learning git branching](https://learngitbranching.js.org/)
 
 [TOP](#top)
 
-## VS Code Integration <a name="vscode"/>
+## :package: VS Code Integration <a name="vscode"/>
 - [Setting up git on vscode](https://levelup.gitconnected.com/how-to-create-a-pull-request-on-github-using-vs-code-f03db28308c4)
 
 [TOP](#top)
 
-## Misc (general important topics/questions) <a name="misc"/>
+## :question: Misc (general important topics/questions) <a name="misc"/>
 - [Why good commit messages?](https://levelup.gitconnected.com/the-importance-of-good-commit-messages-9331251e5e33)
 - [Why you shouldnt be commiting directly into main](https://medium.com/@klemensz/why-you-should-use-pull-requests-even-if-you-are-the-only-developer-e7bfd060ec65)
 - [Creating a remote git branch](https://stackoverflow.com/questions/1519006/how-do-you-create-a-remote-git-branch)
@@ -37,10 +37,11 @@ Table of Contents:
 
 [TOP](#top)
 
-## Learning Markdown <a name="markdown"/>
+## :pencil2: Learning Markdown <a name="markdown"/>
 (used in readme.md files for github)
 - [Markdown cheatsheet 1](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Markdown cheatsheet 2](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 - [Markdown guide](https://www.markdownguide.org/basic-syntax/)
+- [Markdown emotes](https://github.com/ikatyang/emoji-cheat-sheet#github-custom-emoji)
 
 [TOP](#top)
